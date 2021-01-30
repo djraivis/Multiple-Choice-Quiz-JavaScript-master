@@ -23,10 +23,10 @@ let questions = [
     },{
         question : "How would you say おはようございます in Latvian?",
         imgSrc : "img/css.png",
-        choiceA : "Labvakar",
+        choiceA : "Labrīt",
         choiceB : "Hyper Hyper",
-        choiceC : "Labrīt",
-        correct : "C"
+        choiceC : "Labvakar",
+        correct : "A"
     },{
         question : "River in Riga?",
         imgSrc : "img/css.png",
@@ -45,23 +45,23 @@ let questions = [
         question : "What time we normally start our video talk?",
         imgSrc : "img/css.png",
         choiceA : "4am",
-        choiceB : "8pm",
-        choiceC : "10pm",
-        correct : "C"
+        choiceB : "10pm",
+        choiceC : "8pm",
+        correct : "B"
     },{
         question : "Largest city in the world?",
         imgSrc : "img/css.png",
         choiceA : "New York",
-        choiceB : "Tokyo",
-        choiceC : "Sao Paulo",
-        correct : "B"
+        choiceB : "Sao Paulo",
+        choiceC : "Tokyo",
+        correct : "C"
     },{
         question : "NHL Ice-Hockey Team in Calgary / Canada?",
         imgSrc : "img/css.png",
-        choiceA : "Calgary Senators",
+        choiceA : "Calgary Flames",
         choiceB : "Calgary Penguins",
-        choiceC : "Calgary Flames",
-        correct : "C"
+        choiceC : "Calgary Sharks",
+        correct : "A"
     },{
         question : "Itadakimasu in Latvian?",
         imgSrc : "img/css.png",
@@ -72,17 +72,17 @@ let questions = [
     },{
         question : "Arigato in Latvian?",
         imgSrc : "img/css.png",
-        choiceA : "Priekā",
-        choiceB : "Paldies",
-        choiceC : "Lūdzu",
-        correct : "B"
+        choiceA : "Paldies",
+        choiceB : "Lūdzu",
+        choiceC : "Nekad",
+        correct : "A"
     },{
         question : "Have a nice day?",
         imgSrc : "img/css.png",
-        choiceA : "Lai tev jauka diena ☺",
+        choiceA : "Labu apetīti",
         choiceB : "Vai tu sapņoji šonakt?",
-        choiceC : "Labu apetīti",
-        correct : "A"
+        choiceC : " Lai tev jauka diena ☺",
+        correct : "C"
     },
 ];
 

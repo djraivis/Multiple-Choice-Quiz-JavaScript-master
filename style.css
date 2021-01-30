@@ -75,7 +75,7 @@ body{
 }
 .choice:hover{
     border : 2px solid grey;
-    font-weight: bold;
+    /* font-weight: bold; */
     /* background-color: lightseagreen;
     color: white; */
   
