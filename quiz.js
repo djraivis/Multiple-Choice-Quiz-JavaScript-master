@@ -63,7 +63,7 @@ let questions = [
         choiceC : "Montreal Canadians",
         correct : "B"
     },{
-        question : "In which month is my name's day?",
+        question : "My name's day is in?",
         imgSrc : "img/may.jpeg",
         choiceA : "May",
         choiceB : "November",
