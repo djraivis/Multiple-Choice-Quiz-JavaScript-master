@@ -14,74 +14,74 @@ const scoreDiv = document.getElementById("scoreContainer");
 // create our questions
 let questions = [
     {
-        question : "What is the Sparrow?",
-        imgSrc : "img/html.png",
-        choiceA : "Kamome",
-        choiceB : "Tsubame",
-        choiceC : "Suzume",
-        correct : "C"
-    },{
-        question : "How would you say おはようございます in Latvian?",
-        imgSrc : "img/css.png",
-        choiceA : "Labrīt",
-        choiceB : "Hyper Hyper",
-        choiceC : "Labvakar",
+        question : "Snow / 雪 / Yuki?",
+        imgSrc : "img/snow.jpeg",
+        choiceA : "Sniegs",
+        choiceB : "Medus",
+        choiceC : "Krējums",
         correct : "A"
     },{
-        question : "River in Riga?",
-        imgSrc : "img/css.png",
-        choiceA : "Shinano",
-        choiceB : "Daugava",
-        choiceC : "Thames",
+        question : "Winter / 冬 / Fuyu? ",
+        imgSrc : "img/winter.jpg",
+        choiceA : "Rudens",
+        choiceB : "Ziema",
+        choiceC : "Vasara",
         correct : "B"
     },{
-        question : "How would you say KANPAI in Latvian?",
-        imgSrc : "img/css.png",
-        choiceA : "Dzeram",
-        choiceB : "Paldies",
-        choiceC : "Priekā",
-        correct : "C"
-    },{
-        question : "What time we normally start our video talk?",
-        imgSrc : "img/css.png",
-        choiceA : "4am",
-        choiceB : "10pm",
-        choiceC : "8pm",
-        correct : "B"
-    },{
-        question : "Largest city in the world?",
-        imgSrc : "img/css.png",
-        choiceA : "New York",
-        choiceB : "Sao Paulo",
-        choiceC : "Tokyo",
-        correct : "C"
-    },{
-        question : "NHL Ice-Hockey Team in Calgary / Canada?",
-        imgSrc : "img/css.png",
-        choiceA : "Calgary Flames",
-        choiceB : "Calgary Penguins",
-        choiceC : "Calgary Sharks",
+        question : "Flowers / フラワーズ / Furawāzu?",
+        imgSrc : "img/flowers.png",
+        choiceA : "Puķes",
+        choiceB : "Pavasaris",
+        choiceC : "Zvirbulis",
         correct : "A"
     },{
-        question : "Itadakimasu in Latvian?",
-        imgSrc : "img/css.png",
-        choiceA : "Esmu priecīga",
-        choiceB : "Labu apetīti",
-        choiceC : "Kiss me",
+        question : "Sparrow / スズメ / Suzume?",
+        imgSrc : "img/zvirbulis.png",
+        choiceA : "Balodis",
+        choiceB : "Kaija",
+        choiceC : "Zvirbulis",
+        correct : "C"
+    },{
+        question : "Honey / はちみつ / Hachimitsu ?",
+        imgSrc : "img/honey.png",
+        choiceA : "Tēja",
+        choiceB : "Medus",
+        choiceC : "Siers",
         correct : "B"
     },{
-        question : "Arigato in Latvian?",
-        imgSrc : "img/css.png",
-        choiceA : "Paldies",
-        choiceB : "Lūdzu",
-        choiceC : "Nekad",
+        question : "Soured Cream / サワークリーム / Sawākurīmu? ",
+        imgSrc : "img/krejums.png",
+        choiceA : "Piens",
+        choiceB : "Kefīrs",
+        choiceC : "Krējums",
+        correct : "C"
+    },{
+        question : "NHL Player Teddy Blueger is playing for?",
+        imgSrc : "img/blueger.png",
+        choiceA : "Edmonton Oilers",
+        choiceB : "Pittsburgh Penguins",
+        choiceC : "Montreal Canadians",
+        correct : "B"
+    },{
+        question : "In which month is my name's day?",
+        imgSrc : "img/may.jpeg",
+        choiceA : "May",
+        choiceB : "November",
+        choiceC : "June",
         correct : "A"
     },{
-        question : "Have a nice day?",
-        imgSrc : "img/css.png",
-        choiceA : "Labu apetīti",
-        choiceB : "Vai tu sapņoji šonakt?",
-        choiceC : " Lai tev jauka diena ☺",
+        question : "Līgo in Latvia we celebrate in?",
+        imgSrc : "img/ligo.png",
+        choiceA : "May 25th",
+        choiceB : "June 23rd",
+        choiceC : "July 20th",
+        correct : "B"
+    },{
+        question : "I'm in love with?",
+        imgSrc : "img/treegirl.jpg",
+        choiceA : "Winter Queen",
+        choiceB : "Cindarella",
+        choiceC : "Tree Girl",
         correct : "C"
     },
 ];
